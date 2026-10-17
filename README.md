@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Yusuf Berk Say 👋
 
-<!--
-**yusufberk0/yusufberk0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Mechanical Engineer** based in Istanbul, Turkey.
+I design mechanical systems in SolidWorks and learn by building: engines, gear mechanisms and complex parts.
 
-Here are some ideas to get you started:
+## What I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **CAD:** SolidWorks, AutoCAD
+- **Simulation (FEA):** ANSYS Workbench
+- **Manufacturing:** CNC lathe/milling basics, CAM, 3D printing (FDM)
+- **Other:** MS Excel, MATLAB (basic)
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [Inline-4 Engine Assembly](https://github.com/yusufberk0/inline4-engine-assembly) | Full parametric model of an inline four-cylinder engine's moving group (block, crankshaft, connecting rods, pistons) with technical drawings |
+| Differential Gear *(coming soon)* | Gear mechanism design and assembly |
+| Turbine Blade *(coming soon)* | Complex surface modelling |
+
+My university thesis and unmanned ground vehicle (UGV) projects are currently in the publication process, so details are not public yet. Happy to discuss them in an interview.
+
+## Education & certificates
+
+- B.Sc. Mechanical Engineering, Piri Reis University (graduating 2026)
+- Git & GitHub Training Certificate, Piri Reis University / GDSC (2022)
+
+## Contact
+
+- LinkedIn: [Yusuf Berk Say](https://www.linkedin.com/in/yusuf-berk-say-9bb68a234/)
+- Email: yusufberk.say0@gmail.com
