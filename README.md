@@ -16,7 +16,7 @@ I design mechanical systems in SolidWorks and learn by building: engines, gear m
 |---|---|
 | [Inline-4 Engine Assembly](https://github.com/yusufberk0/inline4-engine-assembly) | Full parametric model of an inline four-cylinder engine's moving group (block, crankshaft, connecting rods, pistons) with technical drawings |
 | Differential Gear *(coming soon)* | Gear mechanism design and assembly |
-| Turbine Blade *(coming soon)* | Complex surface modelling |
+| [Gear Pump Assembly](https://github.com/yusufberk0/gear-pump-assembly)| Complex surface modelling and hydraulic gear pump assembly (gears, housing, shafts, seals)
 
 My university thesis and unmanned ground vehicle (UGV) projects are currently in the publication process, so details are not public yet. Happy to discuss them in an interview.
 
